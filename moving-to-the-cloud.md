@@ -32,3 +32,15 @@ whatever you like on it. Store whatever you wish . It is like your own PC but on
 
 - earlier everyone had their own servers, data centers , then later companies outsourced this work like IBM which managed their servers and data and now it is the cloud time. You rent something from the cloud, the provider supports with any help and you use these services. Easy peasy.
 
+### week-3
+
+- not much in this week. The gist is that currently cloud is vendor driven and customer has to be completely alert and should understand all the clauses of services completely or otherwise there may be many problems in the near future.
+
+- content after these 3 weeks is more general and with no specific notes
+
+---
+
+END.
+
+---
+
