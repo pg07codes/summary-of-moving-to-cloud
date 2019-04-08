@@ -22,3 +22,13 @@ whatever you like on it. Store whatever you wish . It is like your own PC but on
 - answer by sriram kuravi (https://www.quora.com/What-is-the-difference-between-IaaS-SaaS-and-Paas) is great.
 ```
 
+### Week-2
+
+- Cloud First policies are being given priority by gov in which the first to any IT stuff is considering cloud services first.
+
+- the chasm is a point on adoption curve of any new technology where either the technology jumps over it to become mainstream or just dies/fades away . It is a point of life and death for new technology so to speak.
+
+- new startups are already born in the cloud, it is only the legacy companies that need to shift to the cloud.
+
+- earlier everyone had their own servers, data centers , then later companies outsourced this work like IBM which managed their servers and data and now it is the cloud time. You rent something from the cloud, the provider supports with any help and you use these services. Easy peasy.
+
